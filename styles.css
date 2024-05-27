@@ -1,2 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
 
-/* Your CSS Code here. */
+header {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+}
+
+.profile-image {
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+header h1 {
+    margin: 10px 0;
+}
+
+header a {
+    color: #1e90ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #e2e2e2;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 3px;
+}
